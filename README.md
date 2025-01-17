@@ -1,2 +1,2 @@
 # LpQcM-for-PET-image-denoising
-Code will be available as soon as our paper accepted.
+https://github.com/mhxiaaa/LeqMod_PET_denoising
